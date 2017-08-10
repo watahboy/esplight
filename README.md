@@ -1,3 +1,5 @@
+Not my stuff, please consider donating to the blog below
+
 # MSGEQ7_ESP8266_WS2812
 An equalizer controlled by The ESP8266 with the NodeMCU firmware(Ver 1.0) or arduino IDE C++ firmware(Ver 2.0), where the equalizer colors are controlled via WiFi.
 
